@@ -1,6 +1,6 @@
 # ebus-adapter
 
-This is an open source reimplementation of adapter boards for [eBUSd project](https://github.com/john30/ebusd). Currently only base board v2.2 is provided.
+This is an open source reimplementation of adapter boards for [eBUS daemon project](https://github.com/john30/ebusd). Currently only base board v2.2 is provided.
 
 # Base Board v2.2
 
