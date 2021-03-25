@@ -4,6 +4,8 @@ This is an open source reimplementation of adapter boards for [eBUS daemon proje
 
 # Base Board v2.2
 
+! Please note this board has not been tested in real life yet !
+
 This board was designed by [Daniel Ismail](https://github.com/daniism)
 
 See https://ebus.github.io/adapter/base.en for more information.
